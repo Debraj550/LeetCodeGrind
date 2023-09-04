@@ -15,29 +15,18 @@ public:
         
         return pq.size();*/
         
-        vector<int> start, end;
+        vector<pair<int,int>> timestamp;
         for(auto interval: intervals) {
-            start.push_back(interval[0]);
-            end.push_back(interval[1]);
+            timestamp.push_back({interval[0],1});
+            timestamp.push_back({interval[1],-1});
         }
-        sort(start.begin(), start.end());
-        sort(end.begin(), end.end());
-        
-        int s = 0, e = 0;
+        sort(timestamp.begin(), timestamp.end());
         int res = 0, count = 0;
         
-        while(s < start.size()) {
-            if(start[s] < end[e]) {
-                count += 1;
-                s++;
-            }
-            else {
-                count -= 1;
-                e++;
-            }
+        for(auto elem: timestamp) {
+            count += elem.second;
             res = max(res, count);
         }
-        
         return res;
     }
 };
