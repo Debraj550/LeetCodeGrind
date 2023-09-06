@@ -11,7 +11,7 @@ public:
                 int v = flight[1];
                 int price = flight[2];
                 
-                if(dist[u] != INT_MAX && temp[u] + price < temp[v]) {
+                if(dist[u] != INT_MAX && dist[u] + price < temp[v]) {
                     temp[v] = price + dist[u];
                 }
             }
