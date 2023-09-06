@@ -17,21 +17,18 @@ public:
     vector<ListNode*> splitListToParts(ListNode* head, int k) {
         vector<ListNode *> ans(k);
         int len = calculateLength(head);
-       
-        int width = len / k, rem = len % k;
-        for(int i = 0; i < k; i++, rem--) {
-            ListNode *temp = head;
-            for(int j = 0; j < width + (rem > 0) - 1; j++) {
-                if(head) head = head->next;
-            }
-            if(head) {
-                ListNode *temp2 = head;
-                head = head->next;
-                temp2->next = NULL;
-            }
-            ans[i] = temp;
-        }
+        int n = len / k, r = len % k; 
         
+        ListNode* node = head, *prev = nullptr;
+        
+        for (int i = 0; node && i < k; i++, r--) {
+            ans[i] = node;
+            for (int j = 0; j < n + (r > 0); j++) {
+                prev = node;
+                node = node->next;
+            }
+            prev->next = nullptr;
+        }
         return ans;
         
     }
