@@ -19,9 +19,9 @@ public:
         int len = calculateLength(head);
        
         int width = len / k, rem = len % k;
-        for(int i = 0; i < k; i++) {
+        for(int i = 0; i < k; i++, rem--) {
             ListNode *temp = head;
-            for(int j = 0; j < width-1 + (i < rem ? 1: 0); j++) {
+            for(int j = 0; j < width + (rem > 0) - 1; j++) {
                 if(head) head = head->next;
             }
             if(head) {
