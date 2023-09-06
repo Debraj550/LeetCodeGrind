@@ -20,7 +20,8 @@ public:
             for(int c = 0; c < n; c++) {
                 sum += grid[r][c];
             }
-            if(sum != 0 && sum < n) return false;
+            if(sum == 0 || sum == n) continue;
+            else return false;
         }
         
         return true;
