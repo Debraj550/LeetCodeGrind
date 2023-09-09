@@ -1,24 +1,14 @@
 class Solution {
 public:
-    bool increasingTriplet(vector<int>& arr) {
-        int N = arr.size();
-        vector<int> suf(N);
-        vector<int> pref(N);
-        suf[N-1] = 0;
-        pref[0] = INT_MAX;
-        
-        for(int i = 1; i < N; i++) {
-            pref[i] = min(arr[i-1], pref[i-1]);
-        }
-        
-        for(int i = N-2; i>= 0; i--) {
-            suf[i] = max(suf[i+1], arr[i+1]);
-        }
-        
-        for(int i = 1; i < N-1; i++) {
-            int curr = arr[i];
-            if(curr > pref[i] && curr < suf[i]) {
-                return true;
+    bool increasingTriplet(vector<int>& nums) {
+        int c1 = INT_MAX, c2 = INT_MAX;
+        for (int x : nums) {
+            if (x <= c1) {
+                c1 = x;           // c1 is min seen so far (it's a candidate for 1st element)
+            } else if (x <= c2) { // here when x > c1, i.e. x might be either c2 or c3
+                c2 = x;           // x is better than the current c2, store it
+            } else {              // here when we have/had c1 < c2 already and x > c2
+                return true;      // the increasing subsequence of 3 elements exists
             }
         }
         return false;
