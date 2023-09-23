@@ -1,36 +1,31 @@
-
 class Solution {
+public:
+
     
-private:
-
-    int dfs(unordered_set<string> &words, unordered_map<string, int> &memo, string currentWord) {
-        if (memo.find(currentWord) != memo.end()) {
-            return memo[currentWord];
-        }
-        int maxLength = 1;
-        for (int i = 0; i < currentWord.length(); i++) {
-            string newWord = currentWord.substr(0, i) + currentWord.substr(i + 1);
-            if (words.find(newWord) != words.end()) {
-                int currentLength = 1 + dfs(words, memo, newWord);
-                maxLength = max(maxLength, currentLength);
+    int longestStrChain( vector<string>& words) {
+        sort(words.begin(), words.end(), [] (const string a, const string b) {
+            return a.size() < b.size();
+        });
+        
+        unordered_map<string, int> dp;
+    
+        
+        int res = 1;
+        for(int i = 0; i < words.size(); i++) {
+            string word = words[i];
+            int currLen = 1;
+            
+            for(int j = 0; j < word.size(); j++) {
+                string temp = word.substr(0,j) + word.substr(j+1, word.size() + 1);
+                //the word except the current element of this word is present then
+                if(dp.find(temp) != dp.end()) {
+                    int prevLen = dp[temp];
+                    currLen = max(currLen, prevLen + 1);
+                }
             }
+            dp[word] = currLen;
+            res = max(res, currLen);
         }
-        memo[currentWord] = maxLength;
-
-        return maxLength;
-    }
-
-public :
-    int longestStrChain(vector<string> &words) {
-        unordered_map<string, int> memo;
-        unordered_set<string> wordsPresent;
-        for (const string &word : words) {
-            wordsPresent.insert(word);
-        }
-        int ans = 0;
-        for (const string &word : words) {
-            ans = max(ans, dfs(wordsPresent, memo, word));
-        }
-        return ans;
-    }
+        return res;
+    } 
 };
