@@ -3,8 +3,8 @@ class Solution {
         {
             int i, len = s1.size();
             bool res = false;
-            if(0==len) return true;
-            else if(1==len) return s1 == s2;
+            if(len == 0) return true;
+            else if(len == 1) return s1 == s2;
             else
             {
                 if(isScramblePair.count(s1+s2)) return isScramblePair[s1+s2]; 
