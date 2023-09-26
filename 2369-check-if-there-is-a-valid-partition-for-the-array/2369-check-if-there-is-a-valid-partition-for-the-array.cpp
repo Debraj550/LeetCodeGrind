@@ -1,26 +1,25 @@
 class Solution {
 public:
-    bool solve(vector<int>& nums, int i, vector<int>& dp){
-        if(i == nums.size()) 
-            return true;
-        if(dp[i] != -1) 
-            return dp[i];
-        if(i + 1 < nums.size() && nums[i] == nums[i+1] ) 
-            if(solve(nums, i + 2, dp)) 
-                return true;
-        if(i + 2 < nums.size() && nums[i] == nums[i+1] && nums[i] == nums[i+2])
-                if(solve(nums, i + 3, dp)) 
-                    return true;
-
-        if(i + 2 < nums.size() && nums[i] == nums[i+1]-1 && nums[i] == nums[i+2] - 2 )
-            if(solve(nums, i + 3, dp)) 
-                return true;
-    
-        return dp[i] = false;
+    vector<int> dp;
+    bool solve(vector<int> &nums, int idx, int n) {
+        if(idx > n) return true;
+        if(dp[idx] != -1) return dp[idx];
+        
+        bool ans = false;
+        if(idx < n && nums[idx] == nums[idx + 1]) {
+            ans = ans | solve(nums, idx + 2, n);
+        }
+        if(idx < n - 1 && nums[idx] == nums[idx + 1] && nums[idx+1] == nums[idx+2]) {
+            ans = ans | solve(nums, idx + 3, n);
+        }
+        if(idx < n - 1 && nums[idx] + 1== nums[idx + 1]  && nums[idx+1] + 1== nums[idx+2]) {
+            ans = ans | solve(nums, idx + 3, n);
+        }
+        return dp[idx] = ans;
     }
-    
     bool validPartition(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);
-        return solve(nums, 0, dp);
+        int n = nums.size();
+        dp.resize(n, -1);
+        return solve(nums, 0, n-1);
     }
 };
