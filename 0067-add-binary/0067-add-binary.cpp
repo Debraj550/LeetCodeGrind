@@ -1,17 +1,19 @@
 class Solution {
 public:
     string addBinary(string a, string b) {
-        string s = "";
-        
-        int c = 0, i = a.size() - 1, j = b.size() - 1;
-        while(i >= 0 || j >= 0 || c == 1)
-        {
-            c += i >= 0 ? a[i --] - '0' : 0;
-            c += j >= 0 ? b[j --] - '0' : 0;
-            s = char(c % 2 + '0') + s;
-            c /= 2;
+        string res = "";
+        int i = a.length() - 1;
+        int j = b.length() - 1;
+        int carry = 0;
+        while(i >= 0 || j >= 0){
+            int sum = carry;
+            if(i >= 0) sum += a[i--] - '0';
+            if(j >= 0) sum += b[j--] - '0';
+            carry = sum > 1 ? 1 : 0;
+            res = to_string(sum % 2) + res;
         }
-        
-        return s;
+        if(carry) res = to_string(carry) + res;
+
+        return res;
     }
 };
