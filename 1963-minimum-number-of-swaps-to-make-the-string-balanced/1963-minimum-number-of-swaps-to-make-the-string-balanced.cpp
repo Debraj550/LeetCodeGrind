@@ -10,8 +10,8 @@ public:
             }
             else st.push(c);
         }
-        int closing = st.size()/2;
-        int ans = (closing + 1)/2;
+        int closingBrackets = st.size()/2;
+        int ans = (closingBrackets + 1)/2;
         return ans;
     }
 };
