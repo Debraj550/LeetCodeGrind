@@ -1,25 +1,33 @@
 class Solution {
 public:
+    // Returns true if the character is a vowel.
+    bool isVowel(char c) {
+        return c == 'a' || c == 'e' || c == 'o'|| c == 'u'|| c == 'i' 
+            || c == 'A' || c == 'E' || c == 'O'|| c == 'U'|| c == 'I';
+    }
+    
     string sortVowels(string s) {
-        string t = s;
-        unordered_map<char, bool> mp;
-        string vowels = "aeiouAEIOU";
-        for(auto c: vowels) mp[c] = true;
-        string temp;
-        for(auto ch: s) {
-            //vowel
-            if(mp[ch]) temp.push_back(ch);
-        }
-        sort(temp.begin(), temp.end());
-        int j = 0;
-        for(int i = 0; i < s.size(); i++) {
-            char ch = s[i];
-            if(mp[ch] == true) {
-                t[i] = temp[j++];
+        unordered_map<char, int> count;
+        for (char c : s) {
+            if (isVowel(c)) {
+                count[c]++;
             }
-            else t[i] = s[i];
         }
-        
-        return t;
+
+        string sortedVowel = "AEIOUaeiou";
+        string ans;
+        int j = 0;
+        for (int i = 0; i < s.size(); i++) {
+            if (!isVowel(s[i])) {
+                ans += s[i];
+            } else {
+                while (count[sortedVowel[j]] == 0) {
+                    j++;
+                }
+                ans += sortedVowel[j];
+                count[sortedVowel[j]]--;
+            }
+        }
+        return ans;
     }
 };
