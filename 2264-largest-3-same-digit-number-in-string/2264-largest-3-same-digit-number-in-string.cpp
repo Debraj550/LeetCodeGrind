@@ -1,19 +1,19 @@
 class Solution {
 public:
     string largestGoodInteger(string num) {
-        int n = num.size();
-        if(n < 3) return "";
-        string ans = "";
-        for(int i = 0; i < n-2; i++) {
-            string x = num.substr(i,3);
-            unordered_set<char> st;
-            for(auto ch: x) st.insert(ch);
-            if(st.size() != 1) continue;
-            else {
-                if(ans.size() == 0 || stoi(ans) < stoi(x)) 
-                    ans = x;
+        // Assign 'maxDigit' to the NUL character (smallest ASCII value character)
+        char maxDigit = '\0';
+
+        // Iterate on characters of the num string.
+        for (int index = 0; index <= num.size() - 3; ++index) {
+            // If 3 consecutive characters are the same,
+            // store the character in 'maxDigit' if bigger than what it already stores.
+            if (num[index] == num[index + 1] && num[index] == num[index + 2]) {
+                maxDigit = max(maxDigit, num[index]);
             }
         }
-        return ans;
+
+        // If 'maxDigit' is NUL return an empty string, otherwise string of size 3 with 'maxDigit' characters.
+        return maxDigit == '\0' ? "" : string(3, maxDigit);
     }
 };
