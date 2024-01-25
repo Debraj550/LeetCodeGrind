@@ -8,12 +8,9 @@ class Solution {
             return dp[i][j];
         }
         
-        if (s1[i] == s2[j]) {  // when both are correct are equal 
+        if (s1[i] == s2[j]) {  
             return dp[i][j] = 1 + f(i - 1, j - 1, s1, s2, dp);  // increment it and call recursion for remaining portion
         }
-		// if not equal then
-        //remaining part of `s1` and `s2` (`f(i, j-1)`).
-		//remaining part of `s1` and `s2` (`f(i-1, j)`).
         return dp[i][j] = max(f(i, j - 1, s1, s2, dp), f(i - 1, j, s1, s2, dp));  
     }
 
