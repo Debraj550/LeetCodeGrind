@@ -1,21 +1,20 @@
 class Solution {
 public:
     int findTheLongestSubstring(string s) {
-        int prefixXOR = 0;   
-        int characterMap[26] = {0};
-        characterMap['a' - 'a'] = 1;
-        characterMap['e' - 'a'] = 2;
-        characterMap['i' - 'a'] = 4;
-        characterMap['o' - 'a'] = 8;
-        characterMap['u' - 'a'] = 16;     
-        vector<int> mp(32, -1);
-        int longestSubstring = 0;
-        for (int i = 0; i < s.length(); i++) {
-            prefixXOR ^= characterMap[s[i] - 'a'];
-            if (mp[prefixXOR] == -1 and prefixXOR != 0) mp[prefixXOR] = i;
-            longestSubstring = max(longestSubstring, i - mp[prefixXOR]);
-        }
+        map<int, int> mp;
+        mp[0] = -1;
+        int cnt = 0, ans = 0;
 
-        return longestSubstring;
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == 'a' || s[i] == 'e' || s[i] == 'i' || s[i] == 'o' || s[i] == 'u') {
+                cnt ^= (1 << ((int)(s[i] - 'a')));
+            }
+            if (mp.count(cnt)) {
+                ans = max(ans, i - mp[cnt]);
+            } else {
+                mp[cnt] = i;
+            }
+        }
+        return ans;
     }
 };
