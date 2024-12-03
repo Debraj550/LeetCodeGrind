@@ -1,55 +1,39 @@
-class DSU {
-    public:
-        vector<int> parents;
-        vector<int> sizes;
-        int components;
-    
-        DSU(int n) {
-            for(int i = 0; i < n; i++) {
-                parents.push_back(i);
-                sizes.push_back(1);
-            }
-            components = n;
-        }
-    
-        int find(int node) {
-            if(node == parents[node]) 
-                return node;
-            return parents[node] = find(parents[node]);
-        }
-    
-        int uf(int u, int v) {
-            u = find(u);
-            v = find(v);
-            
-            if(u == v) return 0;
-            
-            if(sizes[u] < sizes[v]) {
-                parents[u] = v;
-                sizes[v] += sizes[u];
-            }
-            else {
-                parents[v] = u;
-                sizes[u] += sizes[v];
-            }
-            components--;
-            return 1;
-        }
-};
-
 class Solution {
 public:
-    int findCircleNum(vector<vector<int>>& isConnected) {
-        int n = isConnected.size();
-        DSU dsu(n);
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < n; j++) {
-                if(isConnected[i][j] == 1) {
-                    dsu.uf(i,j);
-                }
-            }
-        }
-        return dsu.components;
-        
-    }
+    void dfs(int node, vector<vector<int>> &adjList, vector<int> &visited) {
+	if(visited[node]) return;
+	visited[node] = 1;
+	for(int adjNode: adjList[node]) {
+	if(!visited[adjNode])
+		dfs(adjNode, adjList, visited);
+}
+}
+
+ int findCircleNum(vector<vector<int>>& isConnected) {
+  	int v = isConnected.size();
+vector<vector<int>> adjList(v);
+
+for(int i = 0; i < isConnected.size(); i++) {
+	for(int j = 0; j < isConnected.size(); j++) {
+	if(isConnected[i][j] == 1 && i != j) {
+	adjList[i].push_back(j);
+	adjList[j].push_back(i);
+}
+}
+}
+
+
+vector<int> visited(v, 0);
+int res = 0;
+
+for(int i = 0; i < v; i++) {
+	if(!visited[i])  {
+dfs(i, adjList, visited);
+res++;
+}
+}
+
+return res;   
+  }
+
 };
