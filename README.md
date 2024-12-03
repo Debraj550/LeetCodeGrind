@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
@@ -50,6 +51,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Debraj550/LeetCodeGrind/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Debraj550/LeetCodeGrind/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
