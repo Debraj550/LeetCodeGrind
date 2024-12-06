@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> dirs = {{0,1}, {1, 0}, {-1,0}, {0, -1}};
     void dfs(int i, int j, int m, int n, vector<vector<int>> &visited, vector<vector<int>> &grid) {
-        if(i < 0 || i == m-1 || j < 0 || j == n-1 || visited[i][j] == 1 || grid[i][j] == 0)
+        if(i < 0 || i >= m || j < 0 || j >= n || visited[i][j] == 1 || grid[i][j] == 0)
             return;
         visited[i][j] = 1;
         for(auto dir: dirs) {
