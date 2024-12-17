@@ -1,34 +1,40 @@
 class Solution {
 public:
     string repeatLimitedString(string s, int repeatLimit) {
-        vector<int> freq(26, 0);
+        unordered_map<char, int> freq;
         for (char ch : s) {
-            freq[ch - 'a']++;
+            freq[ch]++;
+        }
+
+        priority_queue<char> maxHeap;
+        for (auto& [ch, count] : freq) {
+            maxHeap.push(ch);
         }
 
         string result;
-        int currentCharIndex = 25; 
-        while (currentCharIndex >= 0) {
-            if (freq[currentCharIndex] == 0) {
-                currentCharIndex--;
-                continue;
-            }
 
-            int use = min(freq[currentCharIndex], repeatLimit);
-            result.append(use, 'a' + currentCharIndex);
-            freq[currentCharIndex] -= use;
+        while (!maxHeap.empty()) {
+            char ch = maxHeap.top();
+            maxHeap.pop();
+            int count = freq[ch];
 
-            if (freq[currentCharIndex] >
-                0) { 
-                int smallerCharIndex = currentCharIndex - 1;
-                while (smallerCharIndex >= 0 && freq[smallerCharIndex] == 0) {
-                    smallerCharIndex--;
+            int use = min(count, repeatLimit);
+            result.append(use, ch);
+
+            freq[ch] -= use;
+
+            if (freq[ch] > 0 && !maxHeap.empty()) {
+                char nextCh = maxHeap.top();
+                maxHeap.pop();
+
+                result.push_back(nextCh);
+                freq[nextCh]--;
+
+                if (freq[nextCh] > 0) {
+                    maxHeap.push(nextCh);
                 }
-                if (smallerCharIndex < 0) {
-                    break;
-                }
-                result.push_back('a' + smallerCharIndex);
-                freq[smallerCharIndex]--;
+
+                maxHeap.push(ch);
             }
         }
 
