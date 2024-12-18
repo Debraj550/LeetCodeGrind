@@ -21,6 +21,7 @@
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Debraj550/LeetCodeGrind/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debraj550/LeetCodeGrind/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
@@ -154,4 +155,12 @@
 |  |
 | ------- |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
