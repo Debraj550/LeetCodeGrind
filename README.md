@@ -19,6 +19,7 @@
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Debraj550/LeetCodeGrind/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/Debraj550/LeetCodeGrind/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1063-best-sightseeing-pair](https://github.com/Debraj550/LeetCodeGrind/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debraj550/LeetCodeGrind/tree/master/2164-two-best-non-overlapping-events) |
 ## Greedy
 |  |
