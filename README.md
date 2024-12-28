@@ -19,6 +19,7 @@
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/Debraj550/LeetCodeGrind/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Debraj550/LeetCodeGrind/tree/master/1063-best-sightseeing-pair) |
@@ -134,6 +135,7 @@
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0213-house-robber-ii) |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1063-best-sightseeing-pair](https://github.com/Debraj550/LeetCodeGrind/tree/master/1063-best-sightseeing-pair) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Debraj550/LeetCodeGrind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
