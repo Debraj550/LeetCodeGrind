@@ -1,34 +1,33 @@
 class Solution {
 public:
+    int MOD = 1e9 + 7;
+
     int numWays(vector<string>& words, string target) {
-        vector<vector<int>> dp(words[0].size(), vector<int>(target.size(), -1));
-        vector<vector<int>> charFrequency(words[0].size(), vector<int>(26, 0));
-        for (int i = 0; i < words.size(); i++) {
-            for (int j = 0; j < words[0].size(); j++) {
-                int character = words[i][j] - 'a';
-                charFrequency[j][character]++;
+        int n = words.size();
+        int m = words[0].size();
+        int t = target.size();
+
+        vector<vector<int>> freq(26, vector<int>(m, 0));
+        for (const string& word : words) {
+            for (int j = 0; j < m; j++) {
+                freq[word[j] - 'a'][j]++;
             }
         }
-        return getWords(words, target, 0, 0, dp, charFrequency);
-    }
 
-private:
-    long getWords(vector<string>& words, string& target, int wordsIndex,
-                  int targetIndex, vector<vector<int>>& dp,
-                  vector<vector<int>>& charFrequency) {
-        if (targetIndex == target.size()) return 1;
-        if (wordsIndex == words[0].size() ||
-            words[0].size() - wordsIndex < target.size() - targetIndex)
-            return 0;
-        if (dp[wordsIndex][targetIndex] != -1)
-            return dp[wordsIndex][targetIndex];
-        long countWays = 0;
-        int curPos = target[targetIndex] - 'a';
-        countWays += getWords(words, target, wordsIndex + 1, targetIndex, dp,
-                              charFrequency);
-        countWays += charFrequency[wordsIndex][curPos] *
-                     getWords(words, target, wordsIndex + 1, targetIndex + 1,
-                              dp, charFrequency);
-        return dp[wordsIndex][targetIndex] = countWays % 1000000007;
+        vector<vector<int>> dp(t + 1, vector<int>(m + 1, 0));
+        for (int j = 0; j <= m; j++) {
+            dp[0][j] = 1;
+        }
+
+        for (int i = 1; i <= t; i++) {
+            for (int j = 1; j <= m; j++) {
+                dp[i][j] = dp[i][j - 1];
+                char targetChar = target[i - 1];
+                int charIndex = targetChar - 'a';
+                dp[i][j] = (dp[i][j] + (long long)freq[charIndex][j - 1] * dp[i - 1][j - 1] % MOD) % MOD;
+            }
+        }
+
+        return dp[t][m];
     }
 };
