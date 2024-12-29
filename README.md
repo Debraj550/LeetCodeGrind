@@ -24,6 +24,7 @@
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1063-best-sightseeing-pair](https://github.com/Debraj550/LeetCodeGrind/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debraj550/LeetCodeGrind/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -108,6 +109,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 | [0733-flood-fill](https://github.com/Debraj550/LeetCodeGrind/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
