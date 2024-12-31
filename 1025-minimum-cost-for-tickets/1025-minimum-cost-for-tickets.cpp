@@ -11,7 +11,7 @@ public:
         int sevenDayPassCost = costs[1] + solve(days, costs, dayIdx + 1, days[dayIdx] + 7);
         int ThirtyDayPassCost = costs[2] + solve(days, costs, dayIdx + 1, days[dayIdx] + 30);
 
-        return dp[cacheKey] = min(oneDayPassCost, min(sevenDayPassCost, ThirtyDayPassCost));
+        return dp[cacheKey] = min({oneDayPassCost,sevenDayPassCost, ThirtyDayPassCost});
     }
     int mincostTickets(vector<int>& days, vector<int>& costs) {
         int ans = 0;
