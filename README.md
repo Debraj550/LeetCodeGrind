@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debraj550/LeetCodeGrind/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
@@ -181,6 +182,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3427-special-array-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
