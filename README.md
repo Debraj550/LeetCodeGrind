@@ -117,6 +117,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
+| [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Debraj550/LeetCodeGrind/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Debraj550/LeetCodeGrind/tree/master/0547-number-of-provinces) |
@@ -165,6 +166,7 @@
 | [0120-triangle](https://github.com/Debraj550/LeetCodeGrind/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Debraj550/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
 ## Memoization
 |  |
 | ------- |
