@@ -59,6 +59,7 @@
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/Debraj550/LeetCodeGrind/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1502-construct-k-palindrome-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Debraj550/LeetCodeGrind/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -94,6 +95,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/Debraj550/LeetCodeGrind/tree/master/0952-word-subsets) |
+| [1502-construct-k-palindrome-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Debraj550/LeetCodeGrind/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -193,6 +195,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Heap (Priority Queue)
@@ -236,6 +239,7 @@
 ## Counting
 |  |
 | ------- |
+| [1502-construct-k-palindrome-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
 |  |
