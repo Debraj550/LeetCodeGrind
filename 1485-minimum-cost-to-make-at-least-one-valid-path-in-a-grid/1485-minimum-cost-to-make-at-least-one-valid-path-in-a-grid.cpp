@@ -1,52 +1,36 @@
 class Solution {
 public:
+    vector<vector<int>> dirs = {{0,1}, {0,-1}, {1, 0}, {-1,0}};
+
+    bool isValid(int row, int col, int numRows, int numCols) {
+        return row >= 0 && row < numRows && col >= 0 && col < numCols;
+    }
+
     int minCost(vector<vector<int>>& grid) {
-        int numRows = grid.size(), numCols = grid[0].size();
-        vector<vector<int>> minChanges(numRows, vector<int>(numCols, INT_MAX));
-        minChanges[0][0] = 0;
+        int m = grid.size();
+        int n = grid[0].size();
+        vector<vector<int>> minCost(m, vector<int>(n, INT_MAX));
+        deque<pair<int,int>> dq;
+        dq.push_front({0,0});
+        minCost[0][0] = 0;
+        while(!dq.empty()) {
+            auto [r, c] = dq.front();
+            dq.pop_front();
 
-        while (true) {
-            vector<vector<int>> prevState = minChanges;
-            for (int row = 0; row < numRows; row++) {
-                for (int col = 0; col < numCols; col++) {
-                    // Check cell above
-                    if (row > 0) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row - 1][col] +
-                                    (grid[row - 1][col] == 3 ? 0 : 1));
-                    }
-                    // Check cell to the left
-                    if (col > 0) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row][col - 1] +
-                                    (grid[row][col - 1] == 1 ? 0 : 1));
-                    }
+            for(int dir = 0; dir < 4; dir++) {
+                int nr = r + dirs[dir][0];
+                int nc = c + dirs[dir][1];
+                int cost = (grid[r][c] != (dir + 1)) ? 1: 0;
+                
+                if(isValid(nr, nc, m, n) && minCost[r][c] + cost < minCost[nr][nc]) {
+                    minCost[nr][nc] = minCost[r][c] + cost;
+                    if(cost == 1) dq.push_back({nr, nc});
+                    else dq.push_front({nr, nc});
                 }
-            }
 
-            for (int row = numRows - 1; row >= 0; row--) {
-                for (int col = numCols - 1; col >= 0; col--) {
-                    if (row < numRows - 1) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row + 1][col] +
-                                    (grid[row + 1][col] == 4 ? 0 : 1));
-                    }
-                    if (col < numCols - 1) {
-                        minChanges[row][col] =
-                            min(minChanges[row][col],
-                                minChanges[row][col + 1] +
-                                    (grid[row][col + 1] == 2 ? 0 : 1));
-                    }
-                }
-            }
-            if (prevState == minChanges) {
-                break;
             }
         }
+        return minCost[m-1][n-1];
 
-        return minChanges[numRows - 1][numCols - 1];
     }
 };
