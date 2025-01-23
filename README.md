@@ -35,6 +35,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Debraj550/LeetCodeGrind/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/1524-string-matching-in-an-array) |
@@ -144,6 +145,7 @@
 | [0801-is-graph-bipartite](https://github.com/Debraj550/LeetCodeGrind/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/Debraj550/LeetCodeGrind/tree/master/1753-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -160,6 +162,7 @@
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Debraj550/LeetCodeGrind/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Debraj550/LeetCodeGrind/tree/master/1876-map-of-highest-peak) |
@@ -170,6 +173,7 @@
 | [0547-number-of-provinces](https://github.com/Debraj550/LeetCodeGrind/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Debraj550/LeetCodeGrind/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
+| [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/Debraj550/LeetCodeGrind/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -191,6 +195,7 @@
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1753-path-with-minimum-effort](https://github.com/Debraj550/LeetCodeGrind/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Debraj550/LeetCodeGrind/tree/master/1876-map-of-highest-peak) |
@@ -276,6 +281,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/1502-construct-k-palindrome-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
 ## Stack
