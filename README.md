@@ -144,6 +144,7 @@
 | [0733-flood-fill](https://github.com/Debraj550/LeetCodeGrind/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Debraj550/LeetCodeGrind/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Debraj550/LeetCodeGrind/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1753-path-with-minimum-effort](https://github.com/Debraj550/LeetCodeGrind/tree/master/1753-path-with-minimum-effort) |
@@ -159,6 +160,7 @@
 | [0733-flood-fill](https://github.com/Debraj550/LeetCodeGrind/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Debraj550/LeetCodeGrind/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Debraj550/LeetCodeGrind/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -181,6 +183,7 @@
 | [0547-number-of-provinces](https://github.com/Debraj550/LeetCodeGrind/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Debraj550/LeetCodeGrind/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0820-find-eventual-safe-states](https://github.com/Debraj550/LeetCodeGrind/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Debraj550/LeetCodeGrind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Matrix
@@ -320,6 +323,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Debraj550/LeetCodeGrind/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Debraj550/LeetCodeGrind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Math
 |  |
