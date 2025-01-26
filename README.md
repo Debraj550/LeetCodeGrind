@@ -22,6 +22,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Debraj550/LeetCodeGrind/tree/master/0238-product-of-array-except-self) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -333,6 +335,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Debraj550/LeetCodeGrind/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
 ## Memoization
 |  |
