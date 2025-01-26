@@ -16,8 +16,9 @@ public:
                 
                 if(s < 0) s = 0;
                 maxi = max(maxi, s);
-                ans = max(ans, count + maxi);
+                
             }
+            ans = max(ans, count + maxi);
         }
         return ans;
         
