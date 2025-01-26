@@ -26,6 +26,7 @@
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Debraj550/LeetCodeGrind/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Debraj550/LeetCodeGrind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -89,6 +90,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Debraj550/LeetCodeGrind/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2414-move-pieces-to-obtain-a-string) |
