@@ -15,8 +15,7 @@ public:
                 else if(num == k) s--;
                 
                 if(s < 0) s = 0;
-                maxi = max(maxi, s);
-                
+                maxi = max(maxi, s);           
             }
             ans = max(ans, count + maxi);
         }
