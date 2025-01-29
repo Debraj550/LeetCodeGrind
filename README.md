@@ -29,6 +29,7 @@
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Debraj550/LeetCodeGrind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/Debraj550/LeetCodeGrind/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/Debraj550/LeetCodeGrind/tree/master/0733-flood-fill) |
