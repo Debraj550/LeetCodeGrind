@@ -18,6 +18,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
 | [0120-triangle](https://github.com/Debraj550/LeetCodeGrind/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Debraj550/LeetCodeGrind/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -115,6 +117,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
