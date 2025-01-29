@@ -21,6 +21,7 @@
 | [0120-triangle](https://github.com/Debraj550/LeetCodeGrind/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
@@ -364,6 +365,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Debraj550/LeetCodeGrind/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Debraj550/LeetCodeGrind/tree/master/2509-minimize-xor) |
