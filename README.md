@@ -24,6 +24,7 @@
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0213-house-robber-ii) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0952-word-subsets](https://github.com/Debraj550/LeetCodeGrind/tree/master/0952-word-subsets) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -306,6 +309,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/1502-construct-k-palindrome-strings) |
@@ -398,6 +402,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
