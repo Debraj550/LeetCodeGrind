@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
@@ -233,6 +234,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0064-minimum-path-sum) |
@@ -402,6 +404,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
