@@ -75,6 +75,7 @@
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Debraj550/LeetCodeGrind/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -156,6 +157,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Debraj550/LeetCodeGrind/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
 |  |
 | ------- |
