@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0064-minimum-path-sum) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Debraj550/LeetCodeGrind/tree/master/0283-move-zeroes) |
@@ -238,6 +240,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0063-unique-paths-ii) |
@@ -324,6 +327,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Debraj550/LeetCodeGrind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -332,6 +336,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Debraj550/LeetCodeGrind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
