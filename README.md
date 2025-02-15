@@ -34,6 +34,7 @@
 | [0283-move-zeroes](https://github.com/Debraj550/LeetCodeGrind/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Debraj550/LeetCodeGrind/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/0542-01-matrix) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0733-flood-fill](https://github.com/Debraj550/LeetCodeGrind/tree/master/0733-flood-fill) |
@@ -322,12 +323,14 @@
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Debraj550/LeetCodeGrind/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
