@@ -63,6 +63,7 @@
 | [2145-grid-game](https://github.com/Debraj550/LeetCodeGrind/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debraj550/LeetCodeGrind/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Debraj550/LeetCodeGrind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Debraj550/LeetCodeGrind/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Debraj550/LeetCodeGrind/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2339-k-divisible-elements-subarrays) |
@@ -112,6 +113,7 @@
 | [0283-move-zeroes](https://github.com/Debraj550/LeetCodeGrind/tree/master/0283-move-zeroes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Debraj550/LeetCodeGrind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debraj550/LeetCodeGrind/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Debraj550/LeetCodeGrind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Debraj550/LeetCodeGrind/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
