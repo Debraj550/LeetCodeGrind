@@ -80,6 +80,7 @@
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Debraj550/LeetCodeGrind/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3427-special-array-ii) |
@@ -103,6 +104,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Debraj550/LeetCodeGrind/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -249,6 +251,7 @@
 | [2145-grid-game](https://github.com/Debraj550/LeetCodeGrind/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Debraj550/LeetCodeGrind/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -395,6 +398,7 @@
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
+| [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
 | ------- |
