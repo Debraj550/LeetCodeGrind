@@ -69,6 +69,7 @@
 | [2339-k-divisible-elements-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2339-k-divisible-elements-subarrays) |
 | [2358-number-of-ways-to-split-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Debraj550/LeetCodeGrind/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Debraj550/LeetCodeGrind/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -323,6 +324,7 @@
 |  |
 | ------- |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Debraj550/LeetCodeGrind/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2478-longest-nice-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Debraj550/LeetCodeGrind/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Queue
@@ -418,6 +420,7 @@
 | [0136-single-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Debraj550/LeetCodeGrind/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2478-longest-nice-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Debraj550/LeetCodeGrind/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Debraj550/LeetCodeGrind/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
