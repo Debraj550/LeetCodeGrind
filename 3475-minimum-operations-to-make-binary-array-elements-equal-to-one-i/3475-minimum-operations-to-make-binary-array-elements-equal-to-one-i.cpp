@@ -10,8 +10,8 @@ public:
                 nums[i] = 1 - nums[i];
             }
         }
-        int sum = accumulate(nums.begin(), nums.end(), 0);
-        if (sum == nums.size()) return count;
-        return -1;
+        
+        for(auto num: nums) if(num==0) return -1;
+        return count;
     }
 };
