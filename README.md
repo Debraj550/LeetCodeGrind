@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
@@ -113,6 +114,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
@@ -140,6 +142,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
