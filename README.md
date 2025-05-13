@@ -61,6 +61,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Debraj550/LeetCodeGrind/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Debraj550/LeetCodeGrind/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Debraj550/LeetCodeGrind/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/Debraj550/LeetCodeGrind/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Debraj550/LeetCodeGrind/tree/master/2164-two-best-non-overlapping-events) |
@@ -414,6 +415,7 @@
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
@@ -423,11 +425,13 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Debraj550/LeetCodeGrind/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2478-longest-nice-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/2478-longest-nice-subarray) |
 | [2509-minimize-xor](https://github.com/Debraj550/LeetCodeGrind/tree/master/2509-minimize-xor) |
@@ -476,6 +480,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Debraj550/LeetCodeGrind/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2339-k-divisible-elements-subarrays) |
 ## Backtracking
@@ -483,6 +488,7 @@
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Debraj550/LeetCodeGrind/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Debraj550/LeetCodeGrind/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
