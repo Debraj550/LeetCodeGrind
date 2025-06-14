@@ -301,6 +301,7 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Debraj550/LeetCodeGrind/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -416,6 +417,7 @@
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
 |  |
