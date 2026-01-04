@@ -49,6 +49,7 @@
 | [1063-best-sightseeing-pair](https://github.com/Debraj550/LeetCodeGrind/tree/master/1063-best-sightseeing-pair) |
 | [1073-number-of-enclaves](https://github.com/Debraj550/LeetCodeGrind/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Debraj550/LeetCodeGrind/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1390-four-divisors](https://github.com/Debraj550/LeetCodeGrind/tree/master/1390-four-divisors) |
 | [1396-count-servers-that-communicate](https://github.com/Debraj550/LeetCodeGrind/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -417,6 +418,7 @@
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
+| [1390-four-divisors](https://github.com/Debraj550/LeetCodeGrind/tree/master/1390-four-divisors) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Debraj550/LeetCodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
