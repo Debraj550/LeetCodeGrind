@@ -126,6 +126,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Debraj550/LeetCodeGrind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Debraj550/LeetCodeGrind/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debraj550/LeetCodeGrind/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -176,6 +177,7 @@
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/2465-shifting-letters-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Debraj550/LeetCodeGrind/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debraj550/LeetCodeGrind/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -301,6 +303,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Debraj550/LeetCodeGrind/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Debraj550/LeetCodeGrind/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2509-minimize-xor](https://github.com/Debraj550/LeetCodeGrind/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
