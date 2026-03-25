@@ -13,8 +13,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0018-4sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
@@ -92,9 +92,10 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Debraj550/LeetCodeGrind/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
@@ -114,8 +115,8 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0018-4sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
@@ -129,8 +130,8 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Debraj550/LeetCodeGrind/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debraj550/LeetCodeGrind/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Debraj550/LeetCodeGrind/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1753-path-with-minimum-effort](https://github.com/Debraj550/LeetCodeGrind/tree/master/1753-path-with-minimum-effort) |
@@ -143,8 +144,8 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3427-special-array-ii) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0018-4sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
@@ -156,8 +157,8 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Debraj550/LeetCodeGrind/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/Debraj550/LeetCodeGrind/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Debraj550/LeetCodeGrind/tree/master/1160-letter-tile-possibilities) |
@@ -182,16 +183,16 @@
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debraj550/LeetCodeGrind/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Debraj550/LeetCodeGrind/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Debraj550/LeetCodeGrind/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Debraj550/LeetCodeGrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Debraj550/LeetCodeGrind/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -206,8 +207,8 @@
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Debraj550/LeetCodeGrind/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/Debraj550/LeetCodeGrind/tree/master/0279-perfect-squares) |
@@ -227,8 +228,8 @@
 | [1876-map-of-highest-peak](https://github.com/Debraj550/LeetCodeGrind/tree/master/1876-map-of-highest-peak) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Debraj550/LeetCodeGrind/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Debraj550/LeetCodeGrind/tree/master/0801-is-graph-bipartite) |
@@ -237,8 +238,8 @@
 | [1753-path-with-minimum-effort](https://github.com/Debraj550/LeetCodeGrind/tree/master/1753-path-with-minimum-effort) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Debraj550/LeetCodeGrind/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Debraj550/LeetCodeGrind/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -247,8 +248,8 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Debraj550/LeetCodeGrind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Debraj550/LeetCodeGrind/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
@@ -266,9 +267,10 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Debraj550/LeetCodeGrind/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Debraj550/LeetCodeGrind/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
@@ -294,8 +296,8 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Debraj550/LeetCodeGrind/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/2562-count-ways-to-build-good-strings) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/Debraj550/LeetCodeGrind/tree/master/1502-construct-k-palindrome-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Debraj550/LeetCodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -308,8 +310,8 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -322,8 +324,8 @@
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Debraj550/LeetCodeGrind/tree/master/0238-product-of-array-except-self) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Debraj550/LeetCodeGrind/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -334,30 +336,31 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Debraj550/LeetCodeGrind/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Debraj550/LeetCodeGrind/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2478-longest-nice-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Debraj550/LeetCodeGrind/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [1160-letter-tile-possibilities](https://github.com/Debraj550/LeetCodeGrind/tree/master/1160-letter-tile-possibilities) |
@@ -366,8 +369,8 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2300-construct-string-with-repeat-limit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Debraj550/LeetCodeGrind/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Debraj550/LeetCodeGrind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0503-next-greater-element-ii) |
@@ -376,46 +379,46 @@
 | [2456-construct-smallest-number-from-di-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Debraj550/LeetCodeGrind/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Debraj550/LeetCodeGrind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0503-next-greater-element-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Debraj550/LeetCodeGrind/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/Debraj550/LeetCodeGrind/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Debraj550/LeetCodeGrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Debraj550/LeetCodeGrind/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Debraj550/LeetCodeGrind/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Debraj550/LeetCodeGrind/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Debraj550/LeetCodeGrind/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Debraj550/LeetCodeGrind/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Debraj550/LeetCodeGrind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Debraj550/LeetCodeGrind/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Debraj550/LeetCodeGrind/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Debraj550/LeetCodeGrind/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Debraj550/LeetCodeGrind/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/0189-rotate-array) |
@@ -427,17 +430,17 @@
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Debraj550/LeetCodeGrind/tree/master/0070-climbing-stairs) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0062-unique-paths](https://github.com/Debraj550/LeetCodeGrind/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0136-single-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -448,53 +451,54 @@
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Debraj550/LeetCodeGrind/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Debraj550/LeetCodeGrind/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2339-k-divisible-elements-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2339-k-divisible-elements-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Debraj550/LeetCodeGrind/tree/master/0347-top-k-frequent-elements) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Debraj550/LeetCodeGrind/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Debraj550/LeetCodeGrind/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2339-k-divisible-elements-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2339-k-divisible-elements-subarrays) |
+| [3546-equal-sum-grid-partition-i](https://github.com/Debraj550/LeetCodeGrind/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1160-letter-tile-possibilities](https://github.com/Debraj550/LeetCodeGrind/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Debraj550/LeetCodeGrind/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
