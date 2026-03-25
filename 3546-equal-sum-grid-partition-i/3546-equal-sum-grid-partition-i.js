@@ -24,16 +24,15 @@ var canPartitionGrid = function(grid) {
     }
 
     // vertical cut
-    let colSums = new Array(n).fill(0);
-    for(let j = 0; j < n; j++) {
-        for(let i = 0; i < m; i++) 
-            colSums[j] += grid[i][j];
-    }
+    let colPrefix = 0;
+    for (let j = 0; j < n - 1; j++) {
+        let colSum = 0;
+        for (let i = 0; i < m; i++) {
+            colSum += grid[i][j];
+        }
+        colPrefix += colSum;
 
-    let colSum = 0;
-    for(let j = 0; j < n; j++) {
-        colSum += colSums[j];
-        if(colSum === target) return true;
+        if (colPrefix === target) return true;
     }
     return false;
 };
