@@ -96,6 +96,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Debraj550/LeetCodeGrind/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Debraj550/LeetCodeGrind/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0268-missing-number) |
@@ -159,6 +160,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Debraj550/LeetCodeGrind/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/Debraj550/LeetCodeGrind/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/Debraj550/LeetCodeGrind/tree/master/1160-letter-tile-possibilities) |
@@ -499,6 +501,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Debraj550/LeetCodeGrind/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1160-letter-tile-possibilities](https://github.com/Debraj550/LeetCodeGrind/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Debraj550/LeetCodeGrind/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
