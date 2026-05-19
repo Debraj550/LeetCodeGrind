@@ -184,6 +184,7 @@
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Debraj550/LeetCodeGrind/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Debraj550/LeetCodeGrind/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Debraj550/LeetCodeGrind/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Debraj550/LeetCodeGrind/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Simulation
 | Problem Name | Difficulty |
@@ -455,6 +456,7 @@
 | [2509-minimize-xor](https://github.com/Debraj550/LeetCodeGrind/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Debraj550/LeetCodeGrind/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Debraj550/LeetCodeGrind/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Debraj550/LeetCodeGrind/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## String Matching
 | Problem Name | Difficulty |
@@ -513,4 +515,5 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Debraj550/LeetCodeGrind/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
