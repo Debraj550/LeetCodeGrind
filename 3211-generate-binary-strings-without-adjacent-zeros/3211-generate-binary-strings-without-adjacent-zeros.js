@@ -9,7 +9,7 @@ var validStrings = function(n) {
             res.push(curr);
             return;
         }
-        if(curr.length > 0 && curr[index-1] === '0') solve(index+1, curr + '1');
+        if(curr.length > 0 && curr[curr.length - 1] === '0') solve(index+1, curr + '1');
         else {
             solve(index + 1, curr + '0');
             solve(index + 1, curr + '1');
