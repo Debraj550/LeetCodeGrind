@@ -432,6 +432,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Debraj550/LeetCodeGrind/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Debraj550/LeetCodeGrind/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Debraj550/LeetCodeGrind/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3227-find-missing-and-repeated-values](https://github.com/Debraj550/LeetCodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Memoization
@@ -515,5 +516,6 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Debraj550/LeetCodeGrind/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Debraj550/LeetCodeGrind/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/Debraj550/LeetCodeGrind/tree/main/2698-find-the-punishment-number-of-an-integer/) | Medium |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Debraj550/LeetCodeGrind/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
