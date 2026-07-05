@@ -24,6 +24,7 @@
 | [0075-sort-colors](https://github.com/Debraj550/LeetCodeGrind/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Debraj550/LeetCodeGrind/tree/master/0084-largest-rectangle-in-histogram) |
 | [0120-triangle](https://github.com/Debraj550/LeetCodeGrind/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Debraj550/LeetCodeGrind/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/Debraj550/LeetCodeGrind/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Debraj550/LeetCodeGrind/tree/master/0136-single-number) |
@@ -286,6 +287,7 @@
 | [0064-minimum-path-sum](https://github.com/Debraj550/LeetCodeGrind/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Debraj550/LeetCodeGrind/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Debraj550/LeetCodeGrind/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Debraj550/LeetCodeGrind/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Debraj550/LeetCodeGrind/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Debraj550/LeetCodeGrind/tree/master/0198-house-robber) |
