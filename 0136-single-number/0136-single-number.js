@@ -3,14 +3,10 @@
  * @return {number}
  */
 var singleNumber = function(nums) {
-    const mp = new Map();
-    for(let num of nums) {
-        mp.set(num, (mp.get(num) || 0) + 1);
+    let xor = nums[0];
+    for(let i = 1; i < nums.length; i++) {
+        xor = xor ^ nums[i];
     }
-
-    for(let [key, val] of mp ) {
-        if(val === 1) return key;
-    }
-    return -1;
+    return xor;
     
 };
