@@ -17,5 +17,5 @@ var topKFrequent = function(nums, k) {
         if(bucket[i].length)
             res.push(...bucket[i]);
     }
-    return res;
+    return res.slice(0,k);
 };
