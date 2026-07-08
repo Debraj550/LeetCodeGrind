@@ -101,6 +101,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Debraj550/LeetCodeGrind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Debraj550/LeetCodeGrind/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Debraj550/LeetCodeGrind/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -168,6 +169,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Debraj550/LeetCodeGrind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Debraj550/LeetCodeGrind/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0127-word-ladder](https://github.com/Debraj550/LeetCodeGrind/tree/master/0127-word-ladder) |
 | [0952-word-subsets](https://github.com/Debraj550/LeetCodeGrind/tree/master/0952-word-subsets) |
@@ -356,6 +358,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Debraj550/LeetCodeGrind/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/Debraj550/LeetCodeGrind/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2478-longest-nice-subarray](https://github.com/Debraj550/LeetCodeGrind/tree/master/2478-longest-nice-subarray) |
 | [2868-continuous-subarrays](https://github.com/Debraj550/LeetCodeGrind/tree/master/2868-continuous-subarrays) |
